@@ -1,0 +1,7 @@
+Написали main
+go mod init mymodule
+go build .
+go mod tidy
+
+Запуск кода
+go run .
